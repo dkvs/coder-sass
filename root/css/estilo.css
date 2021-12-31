@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+body {
+  background-color: #a7e7a5; }
+
+header {
+  background-color: #252525; }
+
+footer div {
+  color: aquamarine; }
